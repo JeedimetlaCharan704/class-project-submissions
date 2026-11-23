@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "SUB-MWSZU33O",
+    "submittedAt": "2026-11-23T08:18:08.052Z",
+    "studentName": "Charan (Class Rep)",
+    "rollNo": "21B91A0500",
+    "branch": "CSE - A",
+    "phone": "9876543210",
+    "email": "",
+    "teamMembers": "Individual",
+    "projectTitle": "AI-Driven Real-Time Traffic Management & Congestion Routing",
+    "domain": "Artificial Intelligence & ML",
+    "abstractText": "This project leverages computer vision and deep learning to dynamically adjust traffic signal timers based on vehicle density, reducing average commute delay by 35%.",
+    "literatureSurveyText": "Surveyed IEEE 2023 paper on YOLOv8 vehicle detection and smart signal algorithms (Smith et al., 2023). Existing systems rely on fixed timers causing unnecessary wait times.",
+    "projectLink": "https://github.com/JeedimetlaCharan704/class-project-submissions",
+    "fileUrl": null,
+    "fileName": null
+  }
+]
