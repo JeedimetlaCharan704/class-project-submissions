@@ -1,19 +1,20 @@
 [
   {
-    "id": "SUB-MWSZU33O",
-    "submittedAt": "2026-11-23T08:18:08.052Z",
-    "studentName": "Charan (Class Rep)",
-    "rollNo": "21B91A0500",
-    "branch": "CSE - A",
+    "id": "DWDM-2026-LG09",
+    "submittedAt": "2026-11-26T09:00:00.000Z",
+    "studentName": "Jeedimetla Charan",
+    "rollNo": "241U1R3026",
+    "branch": "CSE-DS (LG09)",
     "phone": "9876543210",
-    "email": "",
-    "teamMembers": "Individual",
-    "projectTitle": "AI-Driven Real-Time Traffic Management & Congestion Routing",
-    "domain": "Artificial Intelligence & ML",
-    "abstractText": "This project leverages computer vision and deep learning to dynamically adjust traffic signal timers based on vehicle density, reducing average commute delay by 35%.",
-    "literatureSurveyText": "Surveyed IEEE 2023 paper on YOLOv8 vehicle detection and smart signal algorithms (Smith et al., 2023). Existing systems rely on fixed timers causing unnecessary wait times.",
-    "projectLink": "https://github.com/JeedimetlaCharan704/class-project-submissions",
-    "fileUrl": null,
-    "fileName": null
+    "email": "charanjeedimetla@gmail.com",
+    "teamMembers": "Rakesh Jakkula (214U1R3020)",
+    "projectTitle": "Aegis: Autonomous On-Chain Risk & Dimensional Warehouse Engine",
+    "domain": "Data Warehousing (Star Schema OLAP) + Data Mining + ERC-4337",
+    "abstractText": "An enterprise-grade Data Warehousing & Data Mining intelligence engine architected with a Kimball Star Schema and SCD Type 2 in columnar DuckDB (indexing 4,000+ atomic DEX transactions with sub-12ms queries), combined with unsupervised Isolation Forest rug-pull anomaly detection (38ms), K-Means wallet clustering (Silhouette s=0.6512), and FP-Growth token basket mining driving automated ERC-4337 on-chain circuit breakers.",
+    "literatureSurveyText": "Surveyed Kimball (2013) dimensional star schema, Raasveldt & M\u00fchleisen (2019) DuckDB vectorization, Liu et al. (2008) Isolation Forest, and Han et al. (2000) FP-Growth itemset mining.",
+    "projectLink": "https://aegis-terminal-vercel.vercel.app",
+    "githubLink": "https://github.com/JeedimetlaCharan704/aegis-dwdm-agent",
+    "fileUrl": "https://github.com/JeedimetlaCharan704/aegis-dwdm-agent/raw/main/AEGIS_DWDM_PROJECT_PRESENTATION.pptx",
+    "fileName": "AEGIS_DWDM_PROJECT_PRESENTATION.pptx"
   }
 ]
